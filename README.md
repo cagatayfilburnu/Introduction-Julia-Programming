@@ -18,3 +18,11 @@
 <p>In this repository, we will look at some basic examples of Julia programming and cover some important concepts in the language as well. </p>
 
 https://julialang.org/
+
+<!--
+```ruby
+def func(x):
+   return x**2
+```
+
+--!>
